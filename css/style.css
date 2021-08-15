@@ -1,0 +1,220 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f7fa;
+}
+
+.Main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Main content section */
+.Main-content-section {
+  padding: 100px 90px;
+}
+.Main-content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
+}
+.Section-about-me {
+  margin: 0 0 40px 0;
+}
+
+.about-me-profession {
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 17px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.about-me-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: black;
+  margin: 20px 0 25px 0;
+}
+
+.about-me-description {
+  font-style: normal;
+  font-weight: normal;
+  width: 400px;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+/* My projects section */
+
+.My-projects-section {
+  margin: 0 0 50px 0;
+}
+.My-projects-list {
+  padding: 0 0 0 23px;
+}
+.My-projects-item {
+  font-weight: normal;
+  color: black;
+}
+.My-projects-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.My-projects-text {
+  color: #595959;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 5px;
+}
+
+.My-projects-bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: black;
+}
+/* My work experience company */
+.My-work-experience-company {
+  color: #fb6d3a;
+}
+.My-work-experience-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 0 10px 0;
+}
+.My-work-experience-period {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin: 0 0 10px 0;
+}
+.My-work-experience-divider {
+  color: black;
+  margin: 10px;
+}
+.My-work-experience-duties {
+  padding: 0 0 0 18px;
+}
+
+.My-work-experience-duty {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.My-work-experience-company-block {
+  margin: 0 15px 0 0;
+}
+.My-education-section {
+  line-height: 10px;
+}
+
+/* Sidebar-section */
+.sidebar-section {
+  background-color: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+}
+
+.Contacts-section {
+  margin: 50px 0 0 40px;
+}
+
+.Tech-skills {
+  margin: 50px 0 0 40px;
+}
+
+.Soft-skills {
+  margin: 50px 0 0 40px;
+}
+
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+/* Contacts section */
+.Contacts-section-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 8px;
+}
+
+.Contacts-section-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  opacity: 0.5;
+}
+
+/* Tech skills section */
+
+.Tech-skills-list {
+  padding: 0 0 0 18px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  opacity: 0.7;
+}
+.Tech-skills-item {
+  color: #fb6d3a;
+}
+.Tech-skills-item-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+.My-education-section {
+  margin-top: 40px;
+  height: 110px;
+}
+
+/* margin-bottom: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px; */
+/* margin: 20px 20px 20px 20px;*/
+/* padding: 20px 30px 40px 50px; */
+
+/* .about-me-profession {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 17px;
+  color: black;
+  margin-bottom: 20px;
+} */
